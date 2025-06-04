@@ -291,7 +291,7 @@ void loop() {
     }
 
     Serial.println("====================== Menu ======================");
-    Serial.print("[0] Menu - [1] Definir Altura do Sensor - [2] - Exibir alrura do nível da água");
+    Serial.print("[0] Menu - [1] Definir Altura do Sensor - [2] - Exibir altura do nível da água");
     Serial.print("\n");
     Serial.print("\n");
   } else if (menu == 1) {
