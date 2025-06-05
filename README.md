@@ -3,11 +3,13 @@
 Este projeto foi desenvolvido como possível solução para um problema real relacionado às enchentes.
 Projeto realizado para o Global Sotution da matéria Edge Computing & Computer Sistems do curso de Engenharia de Software da FIAP.
 
-## 🔗 Link para Visualização
+## 🔗 Links
 
-Você pode visualizar o projeto no Wokwi pelo link abaixo:
+Você pode visualizar o projeto no Wokwi e no YouTube pelos links abaixo:
 
 👉 [Visualizar Projeto no Wokwi](https://wokwi.com/projects/432846681622453249)
+
+📺 [Visualizar Explicação do Projeto no YouTube](https://youtu.be/1Rykeh_i0nM)
 
 ## 🙋‍♂️ Equipe
 
